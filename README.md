@@ -56,40 +56,36 @@ To run the e-plantShopping project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/e-plantShopping.git
-Navigate to the project directory:
 
+2. Navigate to the project directory:
 cd e-plantShopping
-Install dependencies:
 
+3. Install dependencies:
 npm install
-Start the development server:
 
+4. Start the development server:
 npm run dev
-The application will be available at:
 
-http://localhost:5173
-Redux Implementation
+# Redux Implementation:
 Redux Toolkit is used to manage the shopping cart state.
 
-The cart state includes:
-
+# The cart state includes:
 List of cart items
-
 Quantity of each item
 
-Actions implemented:
+# Actions implemented:
 
-addItem
+# addItem
 
-removeItem
+# removeItem
 
-updateQuantity
+# updateQuantity
 
-Deployment
+# Deployment
 The e-plantShopping application can be deployed using GitHub Pages.
 After deployment, the application is accessible through the GitHub Pages URL associated with the repository.
 
-Notes
+# Notes
 This project is for educational purposes.
 
 Checkout functionality is not implemented and is reserved for future development.
@@ -99,7 +95,7 @@ This repository is named e-plantShopping and contains the complete implementatio
 
 ---
 
-### ✅ What to do next
+### What to do next
 ```bash
 git add README.md
 git commit -m "Add complete README for e-plantShopping project"
