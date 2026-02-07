@@ -75,13 +75,13 @@ Quantity of each item
 
 # Actions implemented:
 
-# addItem
+addItem
 
-# removeItem
+removeItem
 
-# updateQuantity
+updateQuantity
 
-# Deployment
+Deployment
 The e-plantShopping application can be deployed using GitHub Pages.
 After deployment, the application is accessible through the GitHub Pages URL associated with the repository.
 
