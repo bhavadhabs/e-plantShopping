@@ -82,8 +82,6 @@ removeItem
 updateQuantity
 
 Deployment
-The e-plantShopping application can be deployed using GitHub Pages.
-After deployment, the application is accessible through the GitHub Pages URL associated with the repository.
 
 # Notes
 This project is for educational purposes.
